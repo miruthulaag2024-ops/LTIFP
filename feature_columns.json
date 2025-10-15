@@ -1,0 +1,14 @@
+{
+  "categorical": [
+    "category",
+    "brand"
+  ],
+  "numeric": [
+    "initial_stock",
+    "quantity_sold",
+    "times_restocked",
+    "quantity_restocked",
+    "total_volume_moved"
+  ],
+  "target": "demand_score"
+}
